@@ -1,6 +1,6 @@
-# Car Wash Service App
+# Carspot App
 
-Welcome to the Car Wash Service App! This application allows users to easily book car wash services, view their appointments, and manage their bookings with a user-friendly interface.
+Welcome to the Carspot App! This application allows users to easily book car wash services, view their appointments, and manage their bookings with a user-friendly interface.
 
 ## Table of Contents
 - [Features](#features)
